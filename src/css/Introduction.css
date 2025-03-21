@@ -1,0 +1,24 @@
+#introduction{
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    border-bottom: 2px solid;
+}
+
+#introduction > span{
+    font-size: 20px;
+    font-weight: bold;
+    margin-top: 16px;
+}
+
+#introduction > div{
+    padding: 24px 0;
+}
+
+#introduction > div >ul{
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    text-align: left;
+}
+
