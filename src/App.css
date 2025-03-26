@@ -24,10 +24,12 @@
 }
 
 .content-menu-position{
-  position: sticky;
+  /* position: sticky; */
+  position: fixed;
   display: flex;
   flex-direction: column;
   gap: 15px;
+  width: 10%;
 }
 
 .content-menu-position > a{
