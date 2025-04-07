@@ -18,14 +18,11 @@ export default function Info(){
                 </div>
             </div>
             <div className="info-wrap-main">
-                <span>서비스에 기여하여 애정과 보람을 느끼고,
-                끊임없이 성장할 수 있는 일을 하고자 개발자를 희망하게 되었습니다.</span>
+                <span>사용자에게 가치 있는 서비스를 제공하며, 그 안에서 성취감과 애정을 느낄 수 있는 일을 하고 싶어 개발자의 길을 선택하게 되었습니다.</span>
 
-                <span>Java, Springboot, MySQL 을 사용해 웹 백엔드 개발자로 근무중입니다.</span>
-                <span>사용 기술스택은 Java, SpringBoot, Spring Data JPA, RESTful API, Git입니다.</span>
-                <span>JavaScript&#40;TypeScript&#41;, React로 프론트엔드 개발도 가능합니다.</span>
-
-                <span>당장 필요한 요구사항을 해결하면서, 더 넓은 시야를 가지고 추후에 생길 수 있는 일을 고려해 개발하려고 합니다.</span>
+                <span>웹 백엔드 개발자로 일하면서 Java, MySQL, Oracle 등을 활용해 다양한 기능을 구현해왔습니다.</span>
+                <span>주로 Java와 REST API 기반의 시스템을 다뤘으며, 단기적인 요구를 충족시키는 동시에 장기적인 유지보수와 확장성까지 고려하는 개발을 지향합니다.</span>
+                <span>문제를 해결하는 과정에서 배우고 성장하는 즐거움을 느끼며, 더 나은 코드를 고민하고 실천하려 노력하고 있습니다.</span>
             </div>
         </div>
     )

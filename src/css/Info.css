@@ -54,6 +54,11 @@
     flex-direction: column;
     justify-content: center;
     align-items: flex-start;
-    gap: 15px;
+    gap: 5px;
     text-align: left;
+}
+
+.info-wrap-main span{
+    width: 75%;
+    line-height: 1.5;
 }

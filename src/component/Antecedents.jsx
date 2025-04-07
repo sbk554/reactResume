@@ -18,7 +18,7 @@ export default function Antecedents(){
                     <p>주임 | 개발팀 </p>
                     <p>2022.09.19 ~ 2024.11.04 (2년 2개월)</p>
                 </div>
-                <p>수강신청</p>
+                <p></p>
             </div>
         </div>
     );
