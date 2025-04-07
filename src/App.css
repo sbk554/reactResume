@@ -75,3 +75,19 @@
     padding: 12px 14px;
   }
 }
+
+@media screen and (max-width: 800px){
+	
+  .content-menu-position {
+    min-width: 100px;
+  }
+  
+  .content-menu-position > a{
+    font-size: 11px;
+    padding: 12px 10px;
+  }
+
+  .content-menu-position > a.active{
+    font-size: 11px;
+  }
+}

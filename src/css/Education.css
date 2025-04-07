@@ -32,3 +32,18 @@
     line-height: 0.5;
     color: #878e98;
 }
+
+@media screen and (max-width: 800px){
+	
+    #education > span {
+        font-size: 18px;
+    }    
+
+    #education > div {
+        font-size: 13px;
+    }
+    
+    .education-content > span{
+        font-size: 17px;
+    }
+  }

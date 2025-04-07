@@ -33,3 +33,18 @@
     line-height: 0.5;
     color: #878e98;
 }
+
+@media screen and (max-width: 800px){
+	
+    #antecedent > span {
+        font-size: 18px;
+    }    
+
+    #antecedent > div {
+        font-size: 13px;
+    }
+    
+    .antecedent-content > span{
+        font-size: 17px;
+    }
+  }

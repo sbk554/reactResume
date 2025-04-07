@@ -33,3 +33,18 @@
     line-height: 0.5;
     color: #878e98;
 }
+
+@media screen and (max-width: 800px){
+	
+    #project > span {
+        font-size: 18px;
+    }    
+
+    #project > div {
+        font-size: 13px;
+    }
+    
+    .project-content > span{
+        font-size: 17px;
+    }
+  }

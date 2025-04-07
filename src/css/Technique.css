@@ -18,3 +18,15 @@
     align-items: flex-start;
     padding: 24px 0;
 }
+
+@media screen and (max-width: 800px){
+	
+    #technique > span {
+        font-size: 18px;
+    }    
+
+    #technique > div {
+        font-size: 13px;
+    }
+    
+  }
