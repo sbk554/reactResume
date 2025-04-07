@@ -15,21 +15,23 @@
 }
 
 .content-info{
-  width: 100%;
+  width: 80%;
 }
 
 .content-menu{
   width: 20%;
   position: relative;
+  display: flex;
+  justify-content: flex-end;
 }
 
 .content-menu-position{
-  /* position: sticky; */
   position: fixed;
   display: flex;
   flex-direction: column;
   gap: 15px;
   width: 10%;
+  min-width: 185px;
 }
 
 .content-menu-position > a{
