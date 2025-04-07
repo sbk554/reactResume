@@ -13,6 +13,7 @@
 
 #introduction > div{
     padding: 24px 0;
+    font-size: 17px;
 }
 
 #introduction > div >ul{
@@ -22,3 +23,10 @@
     text-align: left;
 }
 
+@media screen and (max-width: 1023px){
+	
+    #introduction > div{
+      font-size: 15px;
+    }
+
+  }

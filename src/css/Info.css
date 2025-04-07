@@ -61,4 +61,17 @@
 .info-wrap-main span{
     width: 75%;
     line-height: 1.5;
+    font-size: 17px;
 }
+
+@media screen and (max-width: 1023px){
+	
+    .info-wrap-img img{
+      width: 150px !important; 
+    }
+  
+    .info-wrap-main{
+      font-size: 15px;
+    }
+    
+  }
