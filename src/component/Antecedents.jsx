@@ -10,7 +10,7 @@ export default function Antecedents(){
                     <p>미래내일 일경험</p>
                     <p>2024.11.25 ~ 2024.12.30 (5주)</p>
                 </div>
-                <p>수강신청</p>
+                {/* <p>수강신청</p> */}
             </div>
             <div className="antecedent-content">
                 <span>(주)플래시21</span>
