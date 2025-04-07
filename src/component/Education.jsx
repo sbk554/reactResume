@@ -12,9 +12,9 @@ export default function Education(){
                 </div>
             </div>
             <div className="education-content">
-                <span>Ai스쿨(스마트웹앱)</span>
+                <span>Ai스쿨</span>
                 <div className="education-date">
-                    <p>사설교육 | </p>
+                    <p>사설교육</p>
                     <p>2022.03 ~ 2022.08 | 수료</p>
                 </div>
             </div>
