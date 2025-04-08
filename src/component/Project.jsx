@@ -17,10 +17,10 @@ export default function Project(){
                 <p>개발기간 : 5주</p>
                 <p>[담당한부분]</p>
                 <ul>
-                    <li></li>
-                    <li></li>
-                    <li></li>
-                    <li></li>
+                    <li>교육 수강신청</li>
+                    <li>본인인증</li>
+                    <li>주차등록</li>
+                    <li>신청유저 관리</li>
                 </ul>
             </div>
 
@@ -38,8 +38,8 @@ export default function Project(){
                 <p>추가개발 : 6개월</p>
                 <p>[담당한부분]</p>
                 <ul>
-                    <li></li>
-                    <li></li>
+                    <li>게시판 투표 기능</li>
+                    <li>회원관리</li>
                     <li></li>
                     <li></li>
                 </ul>
@@ -58,10 +58,9 @@ export default function Project(){
                 <p>개발기간 : 3개월</p>
                 <p>[담당한부분]</p>
                 <ul>
-                    <li></li>
-                    <li></li>
-                    <li></li>
-                    <li></li>
+                    <li>인스타피드 실시간 동기화</li>
+                    <li>예약하기</li>
+                    <li>관리자페이지 공휴일 설정</li>
                 </ul>
             </div>
 
