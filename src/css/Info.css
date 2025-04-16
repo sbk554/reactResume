@@ -133,12 +133,8 @@
       width: 100%;
     }
 
-  }
-
-  @media screen and (max-width: 360px){
-    
     .info-wrap-content-name {
-      font-size: 23px;
+      font-size: 22px;
     }
 
     .info-wrap-content-history {
@@ -146,6 +142,6 @@
     }
 
     .info-wrap-content>div {
-      font-size: 12px;
+      font-size: 13px;
     }
   }
