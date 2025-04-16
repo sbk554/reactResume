@@ -42,3 +42,11 @@
     }
     
   }
+
+  @media screen and (max-width: 500px){
+
+    #introduction > div >ul {
+        padding-left: 20px;
+    }
+
+  }
