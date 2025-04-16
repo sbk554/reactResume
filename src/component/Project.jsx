@@ -78,9 +78,8 @@ export default function Project(){
                 <p>[담당한부분]</p>
                 <ul>
                     <li>게시판기능</li>
-                    <li></li>
-                    <li></li>
-                    <li></li>
+                    <li>자재정보시스템</li>
+                    <li>표준계약서</li>
                 </ul>
             </div>
 
