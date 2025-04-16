@@ -97,27 +97,45 @@
     .info-wrap-main span{
       font-size: 13px;
     }
+
+    .info-wrap-content{
+      white-space: nowrap;
+    }
     
   }
 
+  @media screen and (max-width: 614px){
+    .info-wrap {
+      margin-bottom: 25px;
+    }
+
+    .info-wrap-email{
+      display: flex;
+      flex-direction: column;
+      align-items: flex-start;
+      gap: 5px !important;
+    }
+  }
+
   @media screen and (max-width: 500px){
+    .info-wrap-img{
+      margin: 10px 0px;
+    }
+
     .info-wrap {
       display: flex;
       justify-content: space-between;
       width: 100%;
-      flex-direction: column;
     }
     
     .info-wrap-main span {
       width: 100%;
     }
 
-    .info-wrap-content{
-      white-space: nowrap;
-    }
   }
 
   @media screen and (max-width: 360px){
+    
     .info-wrap-content-name {
       font-size: 23px;
     }
