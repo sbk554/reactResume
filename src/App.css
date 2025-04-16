@@ -77,7 +77,7 @@
 }
 
 @media screen and (max-width: 800px){
-	
+
   .content-menu-position {
     min-width: 100px;
   }
@@ -89,5 +89,49 @@
 
   .content-menu-position > a.active{
     font-size: 11px;
+  }
+}
+
+@media screen and (max-width: 575px){
+
+  .content-menu-position>a {
+    width: 10px;
+    height: 10px;
+    padding: 0;
+    border-radius: 50%;
+    border-right: 1px;
+    font-size: 0;
+    background: #eaecee;
+  }
+  .content-menu-position>a.active {
+      font-size: 0;
+  }
+
+  .content-menu-position {
+    min-width: 50px;
+    align-items: center;
+  }
+  
+}
+
+@media screen and (max-width: 500px){
+  .content {
+    padding: 1rem 1rem 1rem 1.5rem;
+    gap: 10px;
+  }
+
+  .content-menu-position {
+    align-items: center;
+    top: 30%;
+    min-width: 30px;
+  }
+  
+  .content-info{
+    width: 90%;
+  }
+
+  .content-menu{
+    width: 10%;
+    justify-content: flex-start;
   }
 }

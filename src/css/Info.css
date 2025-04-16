@@ -99,3 +99,34 @@
     }
     
   }
+
+  @media screen and (max-width: 500px){
+    .info-wrap {
+      display: flex;
+      justify-content: space-between;
+      width: 100%;
+      flex-direction: column;
+    }
+    
+    .info-wrap-main span {
+      width: 100%;
+    }
+
+    .info-wrap-content{
+      white-space: nowrap;
+    }
+  }
+
+  @media screen and (max-width: 360px){
+    .info-wrap-content-name {
+      font-size: 23px;
+    }
+
+    .info-wrap-content-history {
+      font-size: 15px;
+    }
+
+    .info-wrap-content>div {
+      font-size: 12px;
+    }
+  }

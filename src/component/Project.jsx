@@ -40,8 +40,8 @@ export default function Project(){
                 <ul>
                     <li>게시판 투표 기능</li>
                     <li>회원관리</li>
-                    <li></li>
-                    <li></li>
+                    <li>대회접수기능</li>
+                    <li>회원가입</li>
                 </ul>
             </div>
 
@@ -77,7 +77,7 @@ export default function Project(){
                 <p>개발기간 : 3개월</p>
                 <p>[담당한부분]</p>
                 <ul>
-                    <li></li>
+                    <li>게시판기능</li>
                     <li></li>
                     <li></li>
                     <li></li>
