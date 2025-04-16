@@ -19,6 +19,7 @@ export default function Project(){
                 <ul>
                     <li>교육 수강신청</li>
                     <li>본인인증</li>
+                    <li>결제기능</li>
                     <li>주차등록</li>
                     <li>신청유저 관리</li>
                 </ul>
