@@ -29,7 +29,7 @@ export default function Project(){
                 <span>Mmate 플래시21 솔루션</span>
                 <div className="project-date">
                     <p>(주)플래시21</p>
-                    <p>2022.11.01 - 2024.10.24</p>
+                    <p>2022.11 - 2024.10</p>
                 </div>
                 <p>
                     <a href="https://mmate.flash21.com" target="_blank">https://mmate.flash21.com</a>
@@ -50,7 +50,7 @@ export default function Project(){
                 <span>경기도국민안전체험관</span>
                 <div className="project-date">
                     <p>(주)플래시21</p>
-                    <p>2023.01.02 - 2023.03.30</p>
+                    <p>2023.01 - 2023.03</p>
                 </div>
                 <p>
                     <a href="https://ggsec.gg.go.kr/index" target="_blank">https://ggsec.gg.go.kr/index</a>
@@ -69,7 +69,7 @@ export default function Project(){
                 <span>대구광역시건축사회 건축사 업무지원시스템</span>
                 <div className="project-date">
                     <p>(주)플래시21</p>
-                    <p>	2023.07.07 - 2023.10.20</p>
+                    <p>	2023.07 - 2023.10</p>
                 </div>
                 <p>
                     <a href="https://kirasys.kr/" target="_blank">https://kirasys.kr/</a>
