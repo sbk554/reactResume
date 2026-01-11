@@ -8,7 +8,7 @@ export default function Education(){
                 <span>영진직업전문학교(스마트웹앱)</span>
                 <div className="education-date">
                     <p>사설교육 | React 풀스텍 교육</p>
-                    <p>2024.12.31 ~ 현재</p>
+                    <p>2024.12.31 ~ 2025.07.31</p>
                 </div>
             </div>
             <div className="education-content">
