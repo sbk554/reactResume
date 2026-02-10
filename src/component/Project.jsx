@@ -8,6 +8,7 @@ export default function Project(){
                 <span>영진건설기술교육원</span>
                 <div className="project-date">
                     <p>미래내일 일경험</p>
+                    <p>기술 스택 : JAVA, JSP, MS-SQL</p>
                     <p>2024.11.25 ~ 2024.12.30 (5주)</p>
                 </div>
                 <p>
@@ -29,6 +30,7 @@ export default function Project(){
                 <span>Mmate 플래시21 솔루션</span>
                 <div className="project-date">
                     <p>(주)플래시21</p>
+                    <p>기술 스택 : JAVA, JSP, ORACLE</p>
                     <p>2022.11 - 2024.10</p>
                 </div>
                 <p>
@@ -50,6 +52,7 @@ export default function Project(){
                 <span>경기도국민안전체험관</span>
                 <div className="project-date">
                     <p>(주)플래시21</p>
+                    <p>기술 스택 : JAVA, JSP, MYSQL, 전자정부프레임워크</p>
                     <p>2023.01 - 2023.03</p>
                 </div>
                 <p>
@@ -70,6 +73,7 @@ export default function Project(){
                 <span>대구광역시건축사회 건축사 업무지원시스템</span>
                 <div className="project-date">
                     <p>(주)플래시21</p>
+                    <p>기술 스택 : JAVA, JSP, MYSQL</p>
                     <p>	2023.07 - 2023.10</p>
                 </div>
                 <p>
