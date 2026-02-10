@@ -29,9 +29,11 @@
   position: fixed;
   display: flex;
   flex-direction: column;
+  align-items: flex-end;
   gap: 15px;
   width: 10%;
   min-width: 185px;
+  max-width: 230px;
 }
 
 .content-menu-position > a{
