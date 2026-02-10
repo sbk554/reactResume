@@ -34,7 +34,7 @@ export default function Project(){
                 <p>
                     <a href="https://mmate.flash21.com" target="_blank">https://mmate.flash21.com</a>
                 </p>
-                <p>인원 : 2명(프론트 1명 ,백엔드 1명) 본인 지분율(100%)</p>
+                <p>인원 : 2명(프론트 1명 ,백엔드 5명) 본인 지분율(80%)</p>
                 <p>유지보수 기간 : 2년</p>
                 <p>추가개발 : 6개월</p>
                 <p>[담당한부분]</p>
