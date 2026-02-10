@@ -8,12 +8,12 @@ export default function Project(){
                 <span>영진건설기술교육원</span>
                 <div className="project-date">
                     <p>미래내일 일경험</p>
-                    <p>기술 스택 : JAVA, JSP, MS-SQL</p>
                     <p>2024.11.25 ~ 2024.12.30 (5주)</p>
                 </div>
                 <p>
                     <a href="https://yj3.or.kr/courRegist.do?page=1" target="_blank">https://yj3.or.kr/courRegist.do?page=1</a>
                 </p>
+                <p>기술 스택 : JAVA, JSP, MS-SQL</p>
                 <p>인원 : 2명(프론트 1명 ,백엔드 1명) 본인 지분율(100%)</p>
                 <p>개발기간 : 5주</p>
                 <p>[담당한부분]</p>
@@ -30,12 +30,12 @@ export default function Project(){
                 <span>Mmate 플래시21 솔루션</span>
                 <div className="project-date">
                     <p>(주)플래시21</p>
-                    <p>기술 스택 : JAVA, JSP, ORACLE</p>
                     <p>2022.11 - 2024.10</p>
                 </div>
                 <p>
                     <a href="https://mmate.flash21.com" target="_blank">https://mmate.flash21.com</a>
                 </p>
+                <p>기술 스택 : JAVA, JSP, ORACLE</p>
                 <p>인원 : 2명(프론트 1명 ,백엔드 5명) 본인 지분율(80%)</p>
                 <p>유지보수 기간 : 2년</p>
                 <p>추가개발 : 6개월</p>
@@ -52,12 +52,12 @@ export default function Project(){
                 <span>경기도국민안전체험관</span>
                 <div className="project-date">
                     <p>(주)플래시21</p>
-                    <p>기술 스택 : JAVA, JSP, MYSQL, 전자정부프레임워크</p>
                     <p>2023.01 - 2023.03</p>
                 </div>
                 <p>
                     <a href="https://ggsec.gg.go.kr/index" target="_blank">https://ggsec.gg.go.kr/index</a>
                 </p>
+                <p>기술 스택 : JAVA, JSP, MYSQL, 전자정부프레임워크</p>
                 <p>인원 : 7명(프론트 3명 ,백엔드 4명) 본인 지분율(20%)</p>
                 <p>개발기간 : 3개월</p>
                 <p>[담당한부분]</p>
@@ -73,12 +73,12 @@ export default function Project(){
                 <span>대구광역시건축사회 건축사 업무지원시스템</span>
                 <div className="project-date">
                     <p>(주)플래시21</p>
-                    <p>기술 스택 : JAVA, JSP, MYSQL</p>
                     <p>	2023.07 - 2023.10</p>
                 </div>
                 <p>
                     <a href="https://kirasys.kr/" target="_blank">https://kirasys.kr/</a>
                 </p>
+                <p>기술 스택 : JAVA, JSP, MYSQL</p>
                 <p>인원 : 5명(프론트 1명 ,백엔드 4명) 본인 지분율(30%)</p>
                 <p>개발기간 : 3개월</p>
                 <p>[담당한부분]</p>
